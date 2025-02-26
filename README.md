@@ -8,7 +8,7 @@ A vanilla JavaScript form validation project with SignIn and SignUp forms.
 - Username validation
 - Password validation with special character requirements
 
-### Sign Up Form
+### Sign Up Form using regex
 1. Full Name (letters and spaces only)
 ![Form Validation Preview](https://raw.githubusercontent.com/Sameer092/form-validation/main/assets/1.png)
 2. Username (4-20 characters, alphanumeric and underscore)
